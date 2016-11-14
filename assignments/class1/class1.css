@@ -1,0 +1,24 @@
+header{background-color:cadetblue;
+text-align:center;
+padding:10px;
+}
+
+body{font-family: monospace;}
+
+p {font-size: 20px;
+text-align: center;}
+
+h2{color:crimson;}
+
+li {text-decoration: underline;}
+
+img {float:left;
+    margin:5px;
+border: dotted green 5px;}
+
+ul{list-style-type: disc;
+list-style-position:inside;}
+
+ol{list-style-position:inside;}
+
+button {font-family: fantasy;}
